@@ -7,3 +7,6 @@ Stay tuned for even more enhancements as I continue to refine and improve my aut
 You can find couple of dashboards in here all are implementation stage ... only one dashboard stock_price.py is available on beta release.
 
 feel free to  fork the repo and experiment. 
+
+
+![image](https://github.com/kattavijay/Trading/assets/527263/f4dbbc21-9421-469c-9d75-dc7f58e969db)
